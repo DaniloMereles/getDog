@@ -104,3 +104,9 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+@media (max-width: 475px) {
+    .dog{
+        width: 90%;
+    }
+}
